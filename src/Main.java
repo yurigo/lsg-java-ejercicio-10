@@ -27,6 +27,8 @@ public class Main{
         float beneficios = 0.1f * ventaTotal;
         float ganancia = sueldoBase + beneficios;
 
+        // hago un cambio
+
         System.out.println("Has ganado: " + ganancia);
 
     }
