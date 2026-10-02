@@ -14,6 +14,8 @@ public class Main{
 
         int ventaTotal = 0;
 
+        // y por aqui tambien
+
         for(int i = 0; i<numVentas; i++){
             System.out.println("venta numero " + i + ":");
             int valor;
